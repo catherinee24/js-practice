@@ -17,3 +17,10 @@
 ## 2️⃣ La mejor nota es la que tiene el valor más alto dentro de la lista.
 
 ## 3️⃣ El promedio es la suma de todas las notas de la lista dividida por el tamaño o largo de la lista.
+
+# ````feel free to do them if you want to improve even more in programming and if you are a beginner, these exercises will be very helpful.````
+
+# Contributing 
+## Contributions are always welcome! Open a PR or an issue!
+
+# Thank you !
